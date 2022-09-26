@@ -1,0 +1,21 @@
+* {
+  border: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  transition: all 0.5s;
+}
+
+h1 {
+  font-size: 80px;
+  /* font-family: Impact; */
+}
+.btn-color {
+  background-color: blue;
+  border: 2px solid rgba(6, 10, 87, 0.888);
+}
+
+.btn-color:hover {
+  background-color: green;
+  border: 2px solid rgba(24, 60, 2, 0.951);
+}
